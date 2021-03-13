@@ -1,49 +1,7 @@
-# Webpack Boilerplate
+О себе:
 
-A webpack boilerplate that includes the following libs:
+Я являюсь студентом-заочником. Интересуюсь и занимаюсь версткой страниц. Активно изучаю HTML и CSS. Практикую семантичную разметку, технологии flex и grid, тренирую навыки работы с текстовым содержимым и графическими редакторами. Планирую изучать препроцессоры CSS, методологию БЭМ, адаптивную верстку, Bootstrap, JavaScript и его фреймворки, инструменты по автоматизации сборки.
 
-* jQuery
-* bootstrap
-* font-awesome
-* waypoints
-* jquery.scrollto
-* animate.css
+Ожидания от курса:
 
-in order to quickly build up a production-ready marketing website.
-
-### Example Page
-[DEMO](http://geniuscarrier.com/demo/webpack-boilerplate/)
-
-![GIF](http://geniuscarrier.me/images/webpack-boilerplate.gif)
-
-### Install dependencies
-
-```
-npm install
-```
-
-### Developing locally
-
-1. Run
-
-	```
-	npm run dev
-	```
-
-2. In your browser, navigate to: [http://localhost:8080/](http://localhost:8080/)
-
-### Publish
-
-1. In `webpack.config.js` file, replace `www.example.com` with the real domain name.
-
-2. Run
-
-	```
-	npm run build
-	```
-
-3. Copy the following folders/files to web server
-
-	/build,
-	/image,
-	index.html
+Хочу научиться: программировать на JavaScript, оживлять разметку, создавать интерактив, работать с API, AJAX, система сборки проектов.
